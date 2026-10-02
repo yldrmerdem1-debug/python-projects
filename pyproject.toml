@@ -1,0 +1,6 @@
+[project]
+name = "python-projects"
+version = "1.0.0"
+description = "Inventory system, task scheduler and text statistics in plain Python."
+requires-python = ">=3.10"
+dependencies = []
